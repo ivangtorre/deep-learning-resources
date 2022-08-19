@@ -1,5 +1,6 @@
 # Deep-Learning-Resources
-This repository includes some examples and resources used during courses and seminars related with deep learning. I am beginning to centralize the resources that I have generated in recent years in this repository. You can use them freely citing the source.
+This repository includes exercises and resources utilized during seminars and deep learning courses that I have taught. You can use them freely, citing the source.
+The material is organized in folders related with the seminar or course. Note that some material could have been included in two or more courses with minor or major changes.
 
-## Deep Learning course UOC.
-This folder contains extra and supplementary material for the course of Deep Learning at UOC
+1. **Deep Learning UOC:** Deep Learning course of MSc at Open University of Catalunya (UOC) (2021)
+2.  **Seminars at CRIDA:** Deep Learning Seminars imparted at the Air Traffic Management research, development and innovation center (2019,2021)
